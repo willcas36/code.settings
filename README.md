@@ -1,2 +1,2 @@
 # code.settings
-prueba
+prueba 2
