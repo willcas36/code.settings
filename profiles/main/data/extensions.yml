@@ -1,0 +1,120 @@
+disabled: []
+enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: akamud.vscode-javascript-snippet-pack
+    uuid: null
+  - id: akamud.vscode-theme-onedark
+    uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
+  - id: AnbuselvanRocky.bootstrap5-vscode
+    uuid: null
+  - id: astro-build.astro-vscode
+    uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
+  - id: batisteo.vscode-django
+    uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: burkeholland.simple-react-snippets
+    uuid: null
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: chunsen.bracket-select
+    uuid: ef2858dd-afcb-4e98-bc1e-1a18b18f1018
+  - id: Codeium.windsurfPyright
+    uuid: 1adb9c26-188a-4fb6-840e-b1e951ecff7c
+  - id: DaltonMenezes.aura-theme
+    uuid: a37a3289-9175-4409-968e-a73e43095912
+  - id: Dart-Code.dart-code
+    uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
+  - id: Dart-Code.flutter
+    uuid: f6c3ec04-6057-4d9c-b997-69cba07a6158
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: DigitalBrainstem.javascript-ejs-support
+    uuid: 9cd87837-c82a-4817-9b79-1c84775aa158
+  - id: donjayamanne.jquerysnippets
+    uuid: 99c12a52-ff68-4e9d-a975-a67556fee2f5
+  - id: dracula-theme.theme-dracula
+    uuid: 4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1
+  - id: dsznajder.es7-react-js-snippets
+    uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: ExpressSnippets.vscode-express-snippets
+    uuid: null
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: fractalbrew.backticks
+    uuid: null
+  - id: GitHub.github-vscode-theme
+    uuid: 7328a705-91fc-49e6-8293-da6f112e482d
+  - id: humao.rest-client
+    uuid: dda49fd5-1f3b-4d25-bf61-4fc41905ede5
+  - id: jeroen-meijer.pubspec-assist
+    uuid: 91c5dadd-29e8-4ced-8d0b-6c4bf5901ee1
+  - id: jmrog.vscode-nuget-package-manager
+    uuid: null
+  - id: mikestead.dotenv
+    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: MS-CEINTL.vscode-language-pack-es
+    uuid: null
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: ms-vscode.cpptools
+    uuid: null
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: null
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: ms-vscode.js-debug-nightly
+    uuid: null
+  - id: oven.bun-vscode
+    uuid: 2c58c6a8-c23c-4913-899e-17c90b15274e
+  - id: Prisma.prisma
+    uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
+  - id: quicktype.quicktype
+    uuid: null
+  - id: qwtel.sqlite-viewer
+    uuid: 94fef082-6c2d-43ac-9540-6617b51a3a12
+  - id: rafamel.subtle-brackets
+    uuid: null
+  - id: ritwickdey.LiveServer
+    uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
+  - id: ryuta46.multi-command
+    uuid: a92437f6-75af-47b2-b3e0-99764308b4be
+  - id: sdras.vue-vscode-snippets
+    uuid: null
+  - id: sleistner.vscode-fileutils
+    uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: tamasfe.even-better-toml
+    uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
+  - id: thekalinga.bootstrap4-vscode
+    uuid: null
+  - id: tomoki1207.pdf
+    uuid: 6db08635-0c6a-45ba-9a4b-8c3e192c63c2
+  - id: Tyriar.lorem-ipsum
+    uuid: null
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: WallabyJs.console-ninja
+    uuid: 6a994cdf-21a5-4e80-b0a5-601acdad9bf9
+  - id: wayou.vscode-todo-highlight
+    uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
+  - id: whizkydee.material-palenight-theme
+    uuid: null
+  - id: xabikos.JavaScriptSnippets
+    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
+  - id: zhuangtongfa.material-theme
+    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+  - id: zxh404.vscode-proto3
+    uuid: 1d3d1fb2-0d8f-47ed-bfce-990b8ddfc9d8

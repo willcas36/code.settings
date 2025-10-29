@@ -1,0 +1,128 @@
+{
+   "workbench.sideBar.location": "left",
+   "editor.minimap.enabled": false,
+   "editor.overviewRulerBorder": false,
+   "editor.hideCursorInOverviewRuler": true,
+   "editor.scrollbar.vertical": "auto",
+   "editor.scrollbar.horizontal": "hidden",
+   "editor.lineNumbers": "on",
+   "indenticator.width": 0,
+   "indenticator.color.dark": "rgba(255,255,255,0.1)",
+   "liveServer.settings.CustomBrowser": "chrome",
+   "tabnine.experimentalAutoImports": true,
+   "explorer.confirmDragAndDrop": false,
+   "explorer.confirmDelete": false,
+
+   "editor.wordWrap": "on",
+   "editor.autoIndent": "brackets",
+   "editor.autoClosingBrackets": "always",
+   "files.associations": {
+      "*.ejs": "html",
+      "yabairc": "bat",
+      "skhdrc": "bibtex"
+   },
+   "emmet.includeLanguages": {
+      "ejs": "html"
+   },
+   "html.format.templating": true,
+   "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "editor.accessibilitySupport": "off",
+   "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "files.autoSave": "afterDelay",
+   "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "github.copilot.advanced": {
+      "authProvider": "github"
+   },
+   "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+   "multiCommand.commands": [
+      {
+         "command": "multiCommand.deleteLineAndEdit",
+         "label": "deleteLineAndEdit",
+         "description": "Delete the line and Edit",
+         "sequence": [
+            "editor.action.deleteLines",
+            "editor.action.insertLineBefore"
+         ]
+      }
+   ],
+   "git.autofetch": true,
+   "playwright.showTrace": false,
+   "playwright.reuseBrowser": false,
+   "code-runner.runInTerminal": true,
+   "code-runner.saveAllFilesBeforeRun": true,
+   "workbench.colorTheme": "Aura Soft Dark",
+   "editor.matchBrackets": "never",
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "prettier.singleQuote": true,
+   "prettier.useEditorConfig": false,
+   "prettier.tabWidth": 3,
+   "terminal.integrated.env.osx": {},
+   "console-ninja.featureSet": "Community",
+   "cSpell.language": "en,es-ES",
+   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
+   "[prisma]": {
+      "editor.defaultFormatter": "Prisma.prisma"
+   },
+   "editor.largeFileOptimizations": false,
+   "diffEditor.ignoreTrimWhitespace": false,
+   "workbench.colorCustomizations": {
+      "statusBar.background": "#121016",
+      "statusBar.debuggingBackground": "#121016",
+      "statusBar.debuggingForeground": "#525156",
+      "debugToolBar.background": "#121016",
+
+      "editor.findMatchBackground": "#76c1e337", // Celeste brillante
+      "editor.findMatchBorder": "#29B6F6", // Borde más sólido para visibilidad
+
+      // Otras coincidencias
+      "editor.findMatchHighlightBackground": "#81D4FA55", // Azul claro y suave
+
+      // Rango de búsqueda (cuando usás F3 o navegación de búsqueda)
+      "editor.findRangeHighlightBackground": "#4DD0E155", // Azul con transparencia
+
+      // Selección activa con cursor
+      "editor.selectionBackground": "#4fc2f72e", // Celeste semiopaco
+      "editor.selectionForeground": "#FFFFFF"
+   },
+
+   "[dart]": {
+      "editor.formatOnSave": false,
+      "editor.formatOnType": true,
+      "editor.selectionHighlight": false,
+      "editor.suggest.snippetsPreventQuickSuggestions": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": "off"
+   },
+   "cSpell.ignorePaths": [
+      "package-lock.json",
+      "node_modules",
+      "vscode-extension",
+      ".git/{info,lfs,logs,refs,objects}/**",
+      ".git/{index,*refs,*HEAD}",
+      ".vscode",
+      ".vscode-insiders",
+      ".gitignore",
+      "bun.lock"
+   ],
+   // "editor.bracketPairColorization.enabled": true,
+   // "editor.guides.bracketPairs": true,
+   "errorLens.excludeBySource": ["cSpell"],
+   "editor.formatOnSave": true,
+   "editor.fontFamily": "JetBrainsMono Nerd Font Mono"
+}

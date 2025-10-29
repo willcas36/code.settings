@@ -1,0 +1,122 @@
+// Coloque sus atajos de teclado en este archivo para sobreescribir los valores predeterminados
+[
+   {
+      "key": "ctrl+alt+cmd+n",
+      "command": "-welcome.showNewFileEntries"
+   },
+   {
+      "key": "shift+alt+n",
+      "command": "fileutils.newFileAtRoot"
+   },
+   {
+      "key": "shift+alt+m",
+      "command": "fileutils.newFolderAtRoot"
+   },
+   {
+      "key": "alt+r",
+      "command": "bracket-select.select",
+      "when": "editorTextFocus"
+   },
+   {
+      "key": "alt+a",
+      "command": "-bracket-select.select",
+      "when": "editorTextFocus"
+   },
+   {
+      "key": "alt+d",
+      "command": "editor.action.duplicateSelection"
+   },
+   {
+      "key": "ctrl+u",
+      "command": "workbench.action.navigateBack",
+      "when": "canNavigateBack"
+   },
+   {
+      "key": "ctrl+-",
+      "command": "-workbench.action.navigateBack",
+      "when": "canNavigateBack"
+   },
+   {
+      "key": "ctrl+alt+cmd+p",
+      "command": "workbench.action.navigateForward",
+      "when": "canNavigateForward"
+   },
+   {
+      "key": "ctrl+shift+-",
+      "command": "-workbench.action.navigateForward",
+      "when": "canNavigateForward"
+   },
+   {
+      "key": "ctrl+o",
+      "command": "-lineBreakInsert",
+      "when": "textInputFocus && !editorReadonly"
+   },
+   {
+      "key": "cmd+l",
+      "command": "expandLineSelection",
+      "when": "textInputFocus"
+   },
+   {
+      "key": "cmd+l",
+      "command": "-expandLineSelection",
+      "when": "textInputFocus"
+   },
+   {
+      "key": "cmd+l cmd+o",
+      "command": "-extension.liveServer.goOnline",
+      "when": "editorTextFocus"
+   },
+   {
+      "key": "cmd+l cmd+c",
+      "command": "-extension.liveServer.goOffline",
+      "when": "editorTextFocus"
+   },
+   {
+      "key": "shift+alt+g",
+      "command": "workbench.action.chat.openEditSession",
+      "when": "chatEditingParticipantRegistered && chatIsEnabled && view != 'workbench.panel.chat.view.edits'"
+   },
+   {
+      "key": "shift+cmd+i",
+      "command": "-workbench.action.chat.openEditSession",
+      "when": "chatEditingParticipantRegistered && chatIsEnabled && view != 'workbench.panel.chat.view.edits'"
+   },
+   {
+      "key": "alt+g",
+      "command": "workbench.panel.chat",
+      "when": "workbench.panel.chat.view.copilot.active"
+   },
+   {
+      "key": "ctrl+cmd+i",
+      "command": "-workbench.panel.chat",
+      "when": "workbench.panel.chat.view.copilot.active"
+   },
+   {
+      "key": "alt+t",
+      "command": "deleteInsideWord"
+   },
+   {
+      "key": "shift+cmd+j",
+      "command": "multiCommand.deleteLineAndEdit"
+   },
+   {
+      "key": "shift+cmd+=", // Cambia al atajo que prefieras
+      "command": "editor.action.insertSnippet",
+      "args": {
+         "snippet": "($1) => {\n\t$0\n}"
+      },
+      "when": "editorTextFocus"
+   },
+   {
+      "key": "shift+cmd+=",
+      "command": "-workbench.action.zoomIn"
+   },
+   {
+      "key": "alt+cmd+left",
+      "command": "-workbench.action.previousEditor"
+   },
+   {
+      "key": "cmd+c cmd+s",
+      "command": "cSpell.toggleVisible"
+   }
+]
